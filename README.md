@@ -86,32 +86,7 @@ Solar Propagation Insight:
 - L1 → Earth delay ≈ ~1 hour actionable window  
 
 Key Insight:
-Forecasting failures in rare-event systems are usually caused by multiple small issues interacting together.
-
----
-
-## 🚀 Getting Started
-
-1. Clone the Repository
-git clone https://github.com/your-username/decision-intelligence-system.git
-cd decision-intelligence-system
-
-2. Install Dependencies
-pip install -r requirements.txt
-
-3. Run the Project
-python main.py
-
----
-
-## 🌐 Optional Setup
-
-For UI:
-npm install three
-
-For API:
-pip install fastapi uvicorn
-
+Forecasting failures in rare-event systems are usually caused by multiple small issues interacting together
 ---
 
 ## 📊 Use Cases
