@@ -3,7 +3,7 @@
 
 ## 🛰️ Live Dashboard
 
-[**View the interactive HELIONYX SYNC dashboard →**](https://viswanadhapallipavan06-droid.github.io/space-weather-satellite-decision-intelligence-/ISRO_SpaceWeather_3D.html)
+[**View the interactive HELIONYX SYNC dashboard →**](https://agent-6a451c60dbc575279--celadon-entremet-1f2548.netlify.app)
 
 APP VERSION : https://helionyx-space-sync.base44.app/
 
