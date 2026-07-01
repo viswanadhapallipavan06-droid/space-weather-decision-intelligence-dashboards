@@ -7,6 +7,6 @@
 
 APP VERSION : https://helionyx-space-sync.base44.app/
 
-fully interactive outputs : https://github.com/viswanadhapallipavan06-droid/space-weather-decision-intelligence-dashboards/blob/main/HELIONYX_SYNC_Full_Output_Report.html
+[**View Full Interactive Pipeline Output →**](https://viswanadhapallipavan06-droid.github.io/space-weather-decision-intelligence-dashboards/HELIONYX_SYNC_Full_Output_Report.html)
 
 Fully interactive — hover, zoom, pan, and explore live satellite constellation decisions in real time.
