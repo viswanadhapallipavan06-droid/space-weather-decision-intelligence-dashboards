@@ -8,6 +8,9 @@
 Fully interactive — hover, zoom, pan, and explore live satellite constellation decisions in real time.
 
 ---
+## incase app link doesnt work this is html file link
+[**View the interactive HELIONYX SYNC dashboard →**](https://agent-6a451c60dbc575279--celadon-entremet-1f2548.netlify.app)
+
 
 ## 📊 Full Pipeline Output
 
